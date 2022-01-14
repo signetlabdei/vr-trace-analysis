@@ -1,0 +1,11 @@
+# tested on python 3.8
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+arviz
+pymc3
+tikzplotlib
+bottleneck
